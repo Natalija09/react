@@ -1,0 +1,8 @@
+.inputForm{
+    display: inline-block;
+    width: 20%;
+}
+.outputForm{
+    display: inline-block;
+    width: 50%;
+}
